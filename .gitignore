@@ -205,3 +205,8 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Custom
+src/input/*
+!src/input/README.md
+src/spritesheet.png
